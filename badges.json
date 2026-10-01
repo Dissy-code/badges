@@ -1,0 +1,14 @@
+[
+  {
+    "id": 7107035646,
+    "type": "USER",
+    "status": "SUPPORTER",
+    "badge": { "documentId": 5357447788764366583, "text": "Owner" }
+  },
+  {
+    "id": 5340279307,
+    "type": "USER",
+    "status": "SUPPORTER",
+    "badge": { "documentId": 0, "text": "Designer" }
+  }
+]
