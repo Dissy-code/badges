@@ -10,5 +10,11 @@
     "type": "USER",
     "status": "SUPPORTER",
     "badge": { "documentId": 5357447788764366583, "text": "Designer" }
+  },
+  {
+    "id": 1456901171,
+    "type": "USER",
+    "status": "SUPPORTER",
+    "badge": { "documentId": 5318795144684654879, "text": "Красотка" }
   }
 ]
