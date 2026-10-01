@@ -12,15 +12,15 @@
     "badge": { "documentId": 5357447788764366583, "text": "Designer" }
   },
   {
-    "id": 1456901171,
-    "type": "USER",
-    "status": "SUPPORTER",
-    "badge": { "documentId": 5318795144684654879, "text": "Красотка" }
-  },
-  {
     "id": 5765059699,
     "type": "USER",
     "status": "SUPPORTER",
     "badge": { "documentId": 5357447788764366583, "text": "Wine" }
+  },
+  {
+    "id": 1523698940,
+    "type": "USER",
+    "status": "SUPPORTER",
+    "badge": { "documentId": 5332483836817196538, "text": "Aynotka🐢" }
   }
 ]
