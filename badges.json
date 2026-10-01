@@ -22,5 +22,11 @@
     "type": "USER",
     "status": "SUPPORTER",
     "badge": { "documentId": 5321285486981958601, "text": "Aynotka🐢" }
+  },
+  {
+    "id": 1633832762,
+    "type": "USER",
+    "status": "SUPPORTER",
+    "badge": { "documentId": 5298688890943592709, "text": "Whyfault" }
   }
 ]
