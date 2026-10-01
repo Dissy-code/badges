@@ -16,5 +16,11 @@
     "type": "USER",
     "status": "SUPPORTER",
     "badge": { "documentId": 5318795144684654879, "text": "Красотка" }
+  },
+  {
+    "id": 5765059699,
+    "type": "USER",
+    "status": "SUPPORTER",
+    "badge": { "documentId": 5357447788764366583, "text": "Wine" }
   }
 ]
