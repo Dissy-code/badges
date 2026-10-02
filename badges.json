@@ -28,5 +28,11 @@
     "type": "USER",
     "status": "SUPPORTER",
     "badge": { "documentId": 5298688890943592709, "text": "Whyfault" }
+  },
+  {
+    "id": 8440406987,
+    "type": "USER",
+    "status": "SUPPORTER",
+    "badge": { "documentId": 5332507502086995895, "text": "Педик" }
   }
 ]
