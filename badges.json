@@ -34,5 +34,11 @@
     "type": "USER",
     "status": "SUPPORTER",
     "badge": { "documentId": 5332507502086995895, "text": "Педик" }
+  },
+  {
+    "id": 8733348987,
+    "type": "USER",
+    "status": "SUPPORTER",
+    "badge": { "documentId": 5469745536988916544, "text": "Солнышко @kelovo" }
   }
 ]
