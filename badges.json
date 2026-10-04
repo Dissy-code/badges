@@ -40,5 +40,11 @@
     "type": "USER",
     "status": "SUPPORTER",
     "badge": { "documentId": 5219926526539088355, "text": "Хомик" }
+  },
+  {
+    "id": 7940764931,
+    "type": "USER",
+    "status": "SUPPORTER",
+    "badge": { "documentId": 5470092785094765546, "text": "Любимая" }
   }
 ]
