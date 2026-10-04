@@ -10,41 +10,5 @@
     "type": "USER",
     "status": "SUPPORTER",
     "badge": { "documentId": 5330565987890671959, "text": "Дизайнер Disgram" }
-  },
-  {
-    "id": 5765059699,
-    "type": "USER",
-    "status": "SUPPORTER",
-    "badge": { "documentId": 5357447788764366583, "text": "Wine" }
-  },
-  {
-    "id": 1523698940,
-    "type": "USER",
-    "status": "SUPPORTER",
-    "badge": { "documentId": 5321285486981958601, "text": "Aynotka🐢" }
-  },
-  {
-    "id": 1633832762,
-    "type": "USER",
-    "status": "SUPPORTER",
-    "badge": { "documentId": 5298688890943592709, "text": "Whyfault" }
-  },
-  {
-    "id": 8440406987,
-    "type": "USER",
-    "status": "SUPPORTER",
-    "badge": { "documentId": 5332507502086995895, "text": "Педик" }
-  },
-  {
-    "id": 8733348987,
-    "type": "USER",
-    "status": "SUPPORTER",
-    "badge": { "documentId": 5219926526539088355, "text": "Хомик" }
-  },
-  {
-    "id": 7940764931,
-    "type": "USER",
-    "status": "SUPPORTER",
-    "badge": { "documentId": 5470092785094765546, "text": "Любимая" }
   }
 ]
